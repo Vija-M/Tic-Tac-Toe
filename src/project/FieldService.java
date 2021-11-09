@@ -1,3 +1,4 @@
+package project;
 public class FieldService {
 
     public char[][] createField() {

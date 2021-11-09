@@ -1,3 +1,4 @@
+package project;
 import java.util.Objects;
 
 public class Move {
