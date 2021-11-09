@@ -1,3 +1,4 @@
+package project;
 public class Validation {
 
     public boolean isInputValid(char[][] field, int x, int y) {
